@@ -12,9 +12,9 @@ OpenCore based EFI for Dell Latitude 7400
 
 ## MacOS Version
 
-
+- macOS BigSur 11.7.4
 - macOS Monterey 12.6.4
-
+- macOS Ventura 13.2.1
 
 ## System Configuration
 
