@@ -15,7 +15,7 @@ OpenCore based EFI for Dell Latitude 7400
 - macOS BigSur
 - macOS Monterey
 - macOS Ventura
-- macOS Sonoma
+- macOS Sonoma - You need to update OC and kexts in order to boot macOS Sonoma
 
 ## System Configuration
 
