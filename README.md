@@ -37,7 +37,7 @@ I am currently using macOS Sonoma and will not upload EFI configs for any of the
 
 ### Bootloader
 
-OpenCore 0.9.0
+OpenCore 0.9.6
 
 ### SMBIOS
 
