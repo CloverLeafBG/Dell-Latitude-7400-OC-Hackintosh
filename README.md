@@ -16,6 +16,7 @@ OpenCore based EFI for Dell Latitude 7400
 - macOS Monterey
 - macOS Ventura
 - macOS Sonoma
+- macOS Sequoia
 
 I am currently using macOS Sonoma and will not upload EFI configs for any of the older versions. If you want to install older OS you need to put the appropriate Wi-fi/BT kexts.
 
@@ -37,7 +38,7 @@ I am currently using macOS Sonoma and will not upload EFI configs for any of the
 
 ### Bootloader
 
-OpenCore 0.9.6
+OpenCore
 
 ### SMBIOS
 
