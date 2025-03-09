@@ -24,7 +24,7 @@ I am currently using macOS Sonoma as a daily driver. If you want to install macO
 
 - CPU:  Intel Core i7-8665U
 - iGPU: Intel UHD Graphics 620 (Whiseky Lake)
-- RAM:  Crucial 32GB DDR4 3200Mhz (2x16)
+- RAM:  Crucial 32GB DDR4 3200Mhz (2x16GB)
 - SSD:  1TB WD Black SN770
 - WiFi: Intel 9560NGW
 - Display: 14" 1920*1080 FullHD IPS TouchScreen
