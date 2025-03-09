@@ -18,7 +18,7 @@ OpenCore based EFI for Dell Latitude 7400
 - macOS Sonoma
 - macOS Sequoia
 
-I am currently using macOS Sonoma as a daily driver. If you want to install macOS Sequoia you need to use Heliport + itlwm.kext.
+I am currently using macOS Sonoma as a daily driver. If you want to install macOS Sequoia you need to use Heliport + itlwm.kext for your Wi-Fi.
 
 ## System Configuration
 
