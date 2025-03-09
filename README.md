@@ -18,14 +18,14 @@ OpenCore based EFI for Dell Latitude 7400
 - macOS Sonoma
 - macOS Sequoia
 
-I am currently using macOS Sequoia and will not upload EFI configs for any of the older versions. If you want to install older OS you need to put the appropriate Wi-fi/BT kexts.
+I am currently using macOS Sonoma as a daily driver. If you want to install macOS Sequoia you need to use Heliport + itlwm.kext.
 
 ## System Configuration
 
 - CPU:  Intel Core i7-8665U
 - iGPU: Intel UHD Graphics 620 (Whiseky Lake)
-- RAM:  16GB DDR4 2666Mhz
-- SSD:  512 GB Samsung 950 Pro
+- RAM:  Crucial 32GB DDR4 3200Mhz (2x16)
+- SSD:  1TB WD Black SN770
 - WiFi: Intel 9560NGW
 - Display: 14" 1920*1080 FullHD IPS TouchScreen
 - Sound Card: Realtek ALC295
@@ -42,7 +42,7 @@ OpenCore
 
 ### SMBIOS
 
-MacBookPro15,2
+MacBookPro15,4
 
 
 ## BIOS Settings
@@ -110,6 +110,6 @@ MacBookPro15,2
 
 ## Additional Notes
 
-Don't forget to generate your own SMBIOS with https://github.com/corpnewt/GenSMBIOS. 
+Don't forget to generate your own SMBIOS! 
 
 - ENJOY!
