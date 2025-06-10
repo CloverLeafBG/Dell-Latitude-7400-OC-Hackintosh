@@ -1,6 +1,6 @@
 # Dell-Latitude-7400-OC-Hackintosh
 
-OpenCore based EFI for Dell Latitude 7400
+OpenCore based EFI for Dell Latitude 7400.
 
 
 ![7400 copy](https://user-images.githubusercontent.com/93620854/222604110-178aa25d-482f-4298-bd87-c95512504164.png)
